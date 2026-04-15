@@ -10,7 +10,7 @@
 
     <application
         android:label="BerlAI Voice"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@android:mipmap/ic_launcher"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
 
         <activity
